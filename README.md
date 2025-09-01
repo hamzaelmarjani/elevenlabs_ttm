@@ -34,7 +34,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-elevenlabs_ttm = "0.0.1"
+elevenlabs_ttm = "0.0.2"
 ```
 
 ## Quick Start
