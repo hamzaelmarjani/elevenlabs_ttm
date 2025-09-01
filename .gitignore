@@ -1,0 +1,7 @@
+/target
+/outputs
+._DS_Store
+.DS_Store
+.idea
+.vscode
+/.github
